@@ -22,10 +22,10 @@ timeout = time.time() + delay
 TRACK_TERM = 'angry, annoyed, happy, sad, upset'
 
 # KEEP SECRET
-CONSUMER_KEY = 'ecScSfb0Y7R2rbLiWZG5P8p9D'
-CONSUMER_SECRET = 'XCWKU7gRMlnhZHW04pD3P8BCtYO2PB75103ydFVyTJK8xmabEx'
-ACCESS_TOKEN_KEY = '2268616653-KQOSziHX2psAxf6upZXokQdmOFpFr6GCnGuQK7c'
-ACCESS_TOKEN_SECRET = '3ZF1KUnYlL96UPJWxMnA8oRJw1Cr4aLAqSnAZE46id4kc'
+CONSUMER_KEY = '<insert consumer key here>'
+CONSUMER_SECRET = '<insert consumer secret here>'
+ACCESS_TOKEN_KEY = '<insert access token key here>'
+ACCESS_TOKEN_SECRET = '<insert access token secret here>'
 
 api = TwitterAPI(
     CONSUMER_KEY,
