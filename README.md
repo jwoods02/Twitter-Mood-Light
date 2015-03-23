@@ -7,10 +7,15 @@ An Arduino and Python project that shows the mood of twitter as an RGB LED.
 ### Things you Will Need
 
 Arduino Uno w/ USB Cable and Breadboard
+
 RGB LED
+
 Resistor
+
 3 Jumper Cables
+
 Python 3.4
+
 Arduino IDE
 
 ### Step 1
