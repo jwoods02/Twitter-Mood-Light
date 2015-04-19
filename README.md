@@ -24,7 +24,7 @@ The RGB, Resistor and jumper cables I use can be bought in a package [here](http
 
 Install [Twitter API](https://github.com/geduldig/TwitterAPI) and [pySerial](http://pyserial.sourceforge.net/) libraries onto your computer. 
 
-A guide to installing Python libaries can be found [here](https://docs.python.org/3/installing/)
+A guide to installing Python libraries can be found [here](https://docs.python.org/3/installing/)
 
 ### Step 2
 
