@@ -18,13 +18,17 @@ Python 3.4
 
 Arduino IDE
 
+The RGB, Resistor and jumper cables I use can be bought in a package [here](http://oomlout.co.uk/collections/extra-pieces/products/frosted-leds-10mm-rgb-x3)
+
 ### Step 1
 
-Install Twitter API and pySerial libraries onto your computer. 
+Install [Twitter API](https://github.com/geduldig/TwitterAPI) and [pySerial](http://pyserial.sourceforge.net/) libraries onto your computer. 
+
+A guide to installing Python libaries can be found [here](https://docs.python.org/3/installing/)
 
 ### Step 2
 
-Set up the analog one RGB LED as shown in the breadboard diagram in [this](http://oomlout.com/parts/LEDF-10-RGB-03-guide.pdf} guide
+Set up the analog one RGB LED as shown in the breadboard diagram in [this](http://oomlout.com/parts/LEDF-10-RGB-03-guide.pdf) guide
 
 ### Step 3
 
@@ -32,7 +36,7 @@ Change the <insert serial port here> on line 25 in the python file to the Serial
 
 ### Step 4 
 
-Get your details for the Twitter API by following the instructions here and insert them into lines 31 to 34 in the Python file.
+Get your details for the Twitter API by following the instructions [here](https://twittercommunity.com/t/how-to-get-my-api-key/7033) and insert them into lines 31 to 34 in the Python file.
 
 ### Step 5
 
