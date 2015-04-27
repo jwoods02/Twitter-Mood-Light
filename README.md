@@ -32,7 +32,7 @@ Set up the analog one RGB LED as shown in the breadboard diagram in [this](http:
 
 ### Step 3
 
-Change the <insert serial port here> on line 25 in the python file to the Serial port of your Arduino which can be found here.
+Change the `<insert serial port here>` on line 25 in the python file to the Serial port of your Arduino which can be found here.
 
 ### Step 4 
 
