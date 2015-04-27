@@ -42,4 +42,5 @@ Get your details for the Twitter API by following the instructions [here](https:
 
 To start the program first plug in the USB cable and compile the Arduino program to the Arduino board, then start the Python program and you should see the LED change colours (usually green) then every 5 seconds you should see a subtle colour change. The project is working. 
 
-Note: The program will only work if the Python program is running on the PC and the USB cable is plugged into the Arduino.
+### Note
+The program will only work if the Python program is running on the PC and the USB cable is plugged into the Arduino.
